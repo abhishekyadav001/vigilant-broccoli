@@ -1,0 +1,53 @@
+.login-container {
+  background-image: url("https://s3-alpha-sig.figma.com/img/b804/7ad2/f19dea4052bb2512b256ab9abe070b0b?Expires=1743984000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Z4p40abq9L-uWuKOQLkj1bUJJeQDmRnWukrkMWDJnV8ph-Ccetn7XrHTaZg6y3gT-q75w6aaghf53ofTk48Nssiw~XNDsqfekFT7mZVF5wuLIsivgOqVkEkJ~ngGRNeEur3WuegqHwMWsAjOHu3ClKRIpAM7ubikCA8XWVYLZ6MKpRzH5t41HJk-XYfvuAwWwq1~ZvKTCNlrK4n0BAWzzQbE8SvSv24QkvE45Koalqu7LF2ZyAuRVzscEDqDPPlVzK1wgwANv30dmqEJGBe~dPaq5MzDR3zCGPTKNAVoozQ23EQlQoalXzuYm7kfOlLQ7njMsXWp~S9XlP134Ra8ng__");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.login-form {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.login-form h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.login-form input {
+  margin-bottom: 10px;
+}
+
+.login-form button {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+}
+
+.login-form button:hover {
+  background-color: #0056b3;
+}
+
+.login-form button:disabled {
+  background-color: #ccc;
+}
+
+.login-form button:disabled {
+  cursor: not-allowed;
+}
+
+.login-form button:disabled:hover {
+  background-color: #ccc;
+}
+
+.login-form button:disabled:hover {
+  background-color: #ccc;
+}
+
+.login-form button:disabled:hover {
+  background-color: #ccc;
+}
